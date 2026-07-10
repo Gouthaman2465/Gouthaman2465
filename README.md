@@ -1,13 +1,15 @@
 # Gouthaman G
 
-**B.Tech Cybersecurity Student**
+**Final Year B.Tech Cybersecurity Student**
 **Amrita Vishwa Vidyapeetham, Coimbatore (Class of 2027)**
 
 ---
 
 ## About Me
 
-I am a B.Tech Cybersecurity student with a strong interest in **Application Security (AppSec)** and **Vulnerability Assessment & Penetration Testing (VAPT)**. I enjoy identifying security vulnerabilities in modern web applications and building tools that automate security testing. My current focus is on strengthening my practical offensive security skills through hands-on labs, personal projects, and continuous learning.
+I am a final-year B.Tech Cybersecurity student with a strong interest in **Application Security (AppSec)** and **Vulnerability Assessment & Penetration Testing (VAPT)**. I enjoy identifying security vulnerabilities in modern web applications, analyzing complex attack surfaces, and building tools that automate security testing.
+
+My current focus is on strengthening my practical offensive security skills through hands-on labs, personal projects, and continuous learning while preparing for a career in Application Security.
 
 ---
 
@@ -51,11 +53,27 @@ I am a B.Tech Cybersecurity student with a strong interest in **Application Secu
 
 ## Featured Security Projects
 
-### Aegis – Unified API Security Scanner
+### Schema-Aware Zero-Trust Security Gateway for Preventing GraphQL BOLA Vulnerabilities *(Final Year Project-In progress)*
 
-A security assessment tool designed to analyze multiple API architectures and identify common security vulnerabilities.
+A security gateway designed to protect GraphQL APIs against **Broken Object Level Authorization (BOLA)** attacks by implementing schema-aware validation and zero-trust authorization principles.
+
+**Focus Areas**
+
+* GraphQL Security
+* BOLA Prevention
+* Zero-Trust Architecture
+* Schema Validation
+* Authorization Enforcement
+* API Security
+
 ---
 
+### Aegis – Unified API Security Scanner
+
+A security assessment tool developed to analyze multiple API architectures and identify common API security vulnerabilities.
+
+
+---
 
 ### Network Intrusion Prevention System
 
@@ -88,18 +106,17 @@ Completed **55+ PortSwigger Web Security Academy** labs covering:
 ---
 
 
-
 ## Resume
 
-My latest resume will be available here once published.
+📄 **Resume:** *Coming Soon*
 
 ---
 
 ## Connect
 
-* LinkedIn
-* Portfolio *(Coming Soon)*
+* **LinkedIn:** https://www.linkedin.com/in/gouthaman-g-0296b1288
+* **Portfolio:** Coming Soon
 
 ---
 
-> *"Continuous learning, practical experimentation, and ethical hacking are the foundation of becoming a better security professional."*
+> *"Security is not just about finding vulnerabilities—it's about understanding systems well enough to build them securely."*
