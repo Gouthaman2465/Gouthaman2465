@@ -54,25 +54,8 @@ I am a B.Tech Cybersecurity student with a strong interest in **Application Secu
 ### Aegis – Unified API Security Scanner
 
 A security assessment tool designed to analyze multiple API architectures and identify common security vulnerabilities.
-
-**REST API**
-
-* Insecure Direct Object Reference (IDOR)
-* Mass Assignment
-
-**SOAP API**
-
-* XML External Entity (XXE)
-* XML Injection
-
-**GraphQL API**
-
-* Introspection Abuse
-* Query Depth Attacks
-* Field Authorization Bypass
-* GraphQL Batching Abuse
-
 ---
+
 
 ### Network Intrusion Prevention System
 
@@ -104,11 +87,7 @@ Completed **55+ PortSwigger Web Security Academy** labs covering:
 
 ---
 
-## GitHub Statistics
 
-> GitHub contribution statistics, language statistics, and streak cards will be added here.
-
----
 
 ## Resume
 
