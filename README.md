@@ -106,12 +106,6 @@ Completed **55+ PortSwigger Web Security Academy** labs covering:
 ---
 
 
-## Resume
-
-📄 **Resume:** *Coming Soon*
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gouthamang.me)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouthaman-g-0296b1288)  [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1_lVWXNu2O3LgYDXMFwQ3wbZZZM2gPd7T/view?usp=sharing)
