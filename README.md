@@ -20,6 +20,7 @@ My current focus is on strengthening my practical offensive security skills thro
 * Web Application Penetration Testing
 * API Security Testing
 * PortSwigger Web Security Academy
+* Bug bounty
 
 ---
 
