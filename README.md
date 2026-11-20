@@ -77,9 +77,6 @@ An automated API penetration testing framework validating REST, GraphQL, and SOA
 
 An automated security assessment platform built to detect OWASP A01:2021 (Broken Access Control) by recording authenticated sessions across roles with Playwright and running cross-role differential replays.
 
-### SentinelGuard / SentinelAPI — Full-Stack API Vulnerability Platform
-
-A scan-as-a-service app detecting OWASP API1 (BOLA/IDOR) and API3 (Mass Assignment) via state-verified testing, with a dual React + Streamlit frontend.
 
 ### Network Intrusion Prevention System (NIPS)
 
